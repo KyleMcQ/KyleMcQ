@@ -17,9 +17,13 @@
 
 ## Technologies Used 🛠️
 
-- [Tech 1](https://example.com): Description of tech 1
-- [Tech 2](https://example.com): Description of tech 2
-- [Tech 3](https://example.com): Description of tech 3
+## Technologies and Tools 🛠️
+
+![React](images/react.png) ![C#](images/csharp.png)
+
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/): A modern, versatile programming language.
+
 
 ## Getting Started 🏁
 
