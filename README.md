@@ -1,5 +1,5 @@
 
-# Welcome to [Your Project Name] 👩‍💻🚀
+# Welcome to my profile 👩‍💻🚀
 <!-- About Section -->
  # About me
  
@@ -8,28 +8,13 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: kyle.mcquillan.01@gmail.com<br/><br/>
 
 </p>
 
 <br/>
 <br/>
 <br/>
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository.svg)](https://github.com/your-username/your-repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository.svg)](https://github.com/your-username/your-repository/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository.svg)](https://github.com/your-username/your-repository/issues)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repository.svg)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repository.svg)
-
-<!-- Add a brief project description here -->
-
-## Features 🚀
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Technologies Used 🛠️
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -53,40 +38,11 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Acknowledgments & Achievements 🙌
 
-## Getting Started 🏁
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Prerequisite 1
-- Prerequisite 2
-- ...
-
-### Installation
-
-1. Step 1
-2. Step 2
-3. ...
-
-## Usage ℹ️
-
-Explain how to use your project once it's installed.
-
-## Contributing 🤝
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments 🙌
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
+-
+- 
+- 
 
 ---
 
