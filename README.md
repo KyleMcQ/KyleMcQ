@@ -13,8 +13,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Technologies Used 🛠️
 
