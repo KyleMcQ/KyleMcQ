@@ -22,13 +22,6 @@ I'm a graduate Computer Science student at Dundalk Institute of Technology with 
 
 ---
 
-### 📈 Outside of code
-- ⚡ Training for **Hyrox doubles** (targeting sub-1h20m finish)  
-- 🏎️ Into **automotive projects** (maintenance, mods, F1-style builds, JDM tuning)  
-- 📊 Always exploring **startups & business strategy**  
-
----
-
 📫 **Let’s connect** → [LinkedIn](https://linkedin.com) | [Portfolio](https://github.com/KyleMcQ)  
 
 ---
